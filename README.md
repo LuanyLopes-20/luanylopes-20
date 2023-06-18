@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Sou Luany Lopes, tenho 21 anos e estudo ADS 🌱
+## Possuo conhecimentos em HTML, CSS, JS, C#, SQL & MySql
+
 
 <!--
 **LuanyLopes-20/luanylopes-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
