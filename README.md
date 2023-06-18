@@ -1,5 +1,6 @@
-### Olá! Sou Luany Lopes, tenho 21 anos e estudo ADS 🌱
-## Possuo conhecimentos em HTML, CSS, JS, C#, SQL & MySql
+# Olá!
+## Sou Luany Lopes, tenho 21 anos e estudo ADS 🌱
+### Possuo conhecimentos em HTML, CSS, JS, C#, SQL & MySql
 
 
 <!--
